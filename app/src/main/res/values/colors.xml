@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgr_login1">#A22D7E</color>
+    <color name="bgr_login2">#873B91</color>
+    <color name="bt_login1">#F2C2F8</color>
+    <color name="bt_signup1">#E979F7</color>
+</resources>
